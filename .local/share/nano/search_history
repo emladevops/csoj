@@ -1,0 +1,8 @@
+chroot_local
+local
+pam_service
+allow_writable
+allow_wri
+
+
+
